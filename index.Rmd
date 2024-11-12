@@ -75,6 +75,6 @@ h2 {
   
   <br>
   
-  [<span class="start-link">**Start het experiment**</span>](http://localhost:8000/room/else)
+  [<span class="start-link">**Start het experiment**</span>](http://elselab-beheer.soliscom.uu.nl:8000/room/else)
 
 </div>
