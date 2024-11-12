@@ -69,12 +69,16 @@ h2 {
   
   **Beste deelnemer,**
   
-  <p>Hartelijk dank voor je deelname aan dit experiment in het ELSE-lab! We waarderen je interesse en inzet. Om het experiment te starten, klik je op de onderstaande link.</p>
+  <p>Hartelijk dank voor je deelname aan dit experiment in het ELSE-lab. We waarderen je interesse en inzet enorm! 
+  
+  Voor je op tafel vind je een **informatieblad en toestemmingsformulier** dat de details en voorwaarden van deelname beschrijft. Lees dit formulier zorgvuldig door. Deelname aan het experiment is alleen mogelijk als je het formulier ondertekent.
+  
+  
+Om het experiment te starten, klik je op de onderstaande link.</p>
   
   <p class="warning-text">**Let op:** Wacht met klikken totdat je instructies hebt ontvangen om daadwerkelijk te beginnen.</p>
   
-  <br>
   
   [<span class="start-link">**Start het experiment**</span>](http://elselab-beheer.soliscom.uu.nl:8000/room/else)
-
+  
 </div>
