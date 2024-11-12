@@ -1,0 +1,12 @@
+name: "Startpage"
+author: "Rob Franken"
+date: "Last compiled on `r format(Systime(), '%B, %Y')"
+output_dir: "docs"
+output:
+  html_document:
+    theme: flatly
+    output_file: "index.html"
+    
+
+
+

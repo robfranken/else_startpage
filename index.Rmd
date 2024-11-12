@@ -1,0 +1,80 @@
+---
+title: "Welkom!"
+output: html_document
+---
+
+<style>
+/* Center the entire page */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f9;
+  font-family: Arial, sans-serif;
+  flex-direction: column;
+}
+
+/* Center the title */
+h1.title {
+  text-align: center;
+  color: #333;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+/* Style the main content box */
+.main-box {
+  max-width: 600px;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+/* Header styling */
+h2 {
+  color: #333;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+/* Emphasize warning text */
+.warning-text {
+  color: #d9534f;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Link button styling */
+.start-link {
+  display: inline-block;
+  background-color: #5cb85c;
+  color: white;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.start-link:hover {
+  background-color: #4cae4c;
+}
+</style>
+
+<div class="main-box">
+  
+  **Beste deelnemer,**
+  
+  <p>Hartelijk dank voor je deelname aan dit experiment in het ELSE-lab! We waarderen je interesse en inzet. Om het experiment te starten, klik je op de onderstaande link.</p>
+  
+  <p class="warning-text">**Let op:** Wacht met klikken totdat je instructies hebt ontvangen om daadwerkelijk te beginnen.</p>
+  
+  <br>
+  
+  [<span class="start-link">**Start het experiment**</span>](http://localhost:8000/room/else)
+
+</div>
